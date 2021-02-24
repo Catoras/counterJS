@@ -1,4 +1,5 @@
-const endPoint = "1 Mar 2022";
+const endPoint = "7 Apr 2022";
+
 const daysV = document.getElementById("days");
 const hoursV = document.getElementById("hours");
 const minutesV = document.getElementById("minutes");
