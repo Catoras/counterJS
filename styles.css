@@ -18,6 +18,7 @@
 }
 .big-number {
   font-size: 2em;
+  font-weight: bold;
 }
 .countdown-element {
   margin: 0px 0.2em;
